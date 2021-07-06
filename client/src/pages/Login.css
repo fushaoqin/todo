@@ -1,0 +1,14 @@
+.input:focus + label {
+    color: #19b1a2 !important;
+} 
+.input:focus {
+    box-shadow: 0 1px 0 0 #76d3ca !important;
+    
+    border-bottom: 1px solid #76d3ca !important;
+
+    color: #0c8579 !important;
+    
+}
+.prefix.active {
+    color: #76d3ca !important;
+}
